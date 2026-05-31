@@ -1,0 +1,5 @@
+Numpy
+Pandas
+Matplolib
+Seaborn
+Ski-cit learn
