@@ -63,17 +63,6 @@ Performance was evaluated using:
 - Data Preprocessing
 - Model Evaluation
 - Comparative Model Analysis
-  
-## Results
-MODEL- LINEAR REGRESSION
-1. MAE: nil
-2. MSE: 0.057925294247378564
-3. R2 Score: 0.9721733275987304
-
-MODEL- RANDOM FOREST REGRESSOR
-1. MAE: 0.26526908107372416
-2. RMSE: 0.3853007587593442
-3. R2 Score: 0.9286830510513921
 
 ### Key Findings
 - Random Forest demonstrated improved performance due to its ability to model nonlinear relationships.
